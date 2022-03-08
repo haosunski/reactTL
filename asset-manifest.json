@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/haosunski/reactTL/static/css/main.1f6bac1a.css",
+    "main.js": "/haosunski/reactTL/static/js/main.53e47f0c.js",
+    "static/js/787.4b64efdf.chunk.js": "/haosunski/reactTL/static/js/787.4b64efdf.chunk.js",
+    "index.html": "/haosunski/reactTL/index.html",
+    "main.1f6bac1a.css.map": "/haosunski/reactTL/static/css/main.1f6bac1a.css.map",
+    "main.53e47f0c.js.map": "/haosunski/reactTL/static/js/main.53e47f0c.js.map",
+    "787.4b64efdf.chunk.js.map": "/haosunski/reactTL/static/js/787.4b64efdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6bac1a.css",
+    "static/js/main.53e47f0c.js"
+  ]
+}
